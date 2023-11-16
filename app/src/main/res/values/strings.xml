@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Portfolio_MaxHendess</string>
+    <string name="title_activity_about_me">Your Title Here</string>
+    <string name="project_title">Portfolio_MaxHendess</string>
+    <string name="view_project_btn">View Project</string>
+    <string name="project_summary">summary</string>
+    <string name="header_main">My Projects</string>
+    <string name="profileBtn">About Me</string>
+    <string name="title_max">Max Hendess</string>
+    <string name="age">I am 32 years old.</string>
+    <string name="location">Live in Ängelholm</string>
+    <string name="ocupation">Studying to become a mobile application developer remotely.</string>
+    <string name="presentation">Committed and results-driven professional with a diverse background in application development.
+        I excel in problem solving, communication, teamwork, and I am committed to delivering high quality results, innovation and efficiency.
+        I am a proactive learner who constantly seeks opportunities to expand my knowledge and stay up to date with industry trends.
+        I am excited to bring my expertise and enthusiasm to a forward-thinking team.
+        Trained web developer. Previously worked with C#, JS, MySQL, HTML, CSS.</string>
+    <string name="title_activity_project">ProjectActivity</string>
+</resources>

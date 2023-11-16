@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--This is dropdown items -->
+    <string-array name="category_array">
+        <item>Java / Kotlin</item>
+        <item>Javascript</item>
+        <item>C#</item>
+     <!--   <item>Unity</item> -->
+        <item>Html Css</item>
+    </string-array>
+</resources>

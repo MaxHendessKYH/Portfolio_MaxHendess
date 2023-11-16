@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="normaltxt_size">25sp</dimen>
+    <dimen name="headertxt_size">40sp</dimen>
+    <dimen name="li_btn_width">130dp</dimen>
+    <dimen name="li_btn_height">62dp</dimen>
+    <dimen name="header">36dp</dimen>
+    <dimen name="ptag">17sp</dimen>
+    <dimen name="img_Width">272sp</dimen>
+    <dimen name="img_Height">400sp</dimen>
+    <dimen name="img_margin">20dp</dimen>
+</resources>
